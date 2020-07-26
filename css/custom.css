@@ -770,7 +770,7 @@ body.td-home h1 {
         margin-bottom: 50px;
     }
     .featured:before {
-        background-image: url(/images/featured-left.png);
+        background-image: url(../images/featured-left.png);
         background-repeat: no-repeat !important;
         content: '';
         position: absolute;
